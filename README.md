@@ -9,3 +9,5 @@ You could view a static site version of our markdown docs at https://roamjs.com.
 ## Contributing
 
 See the [Contributing Guide](./CONTRIBUTING.md) for more information!
+
+This is a permanent test branch for debugging.
